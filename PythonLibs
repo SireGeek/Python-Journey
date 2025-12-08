@@ -1,0 +1,96 @@
+Tier 1 — The Libraries EVERY Python Developer Should Learn First
+
+These are the core building-block libraries you'll use everywhere.
+
+1. os
+
+For working with files, folders, system paths.
+
+Create/delete files
+
+Navigate directories
+
+Get system info
+
+
+Why: Needed for automation, scripting, and real projects.
+
+
+---
+
+2. sys
+
+For interacting with Python itself.
+
+Arguments
+
+Exiting program
+
+Python runtime info
+
+
+Why: Useful for more “technical” scripts.
+
+
+---
+
+3. json
+
+For saving & loading structured data.
+
+Config files
+
+Game saves
+
+Bot settings
+
+API responses
+
+
+Why: Nearly every modern program uses JSON.
+
+
+---
+
+4. time
+
+For delays, timestamps, timers.
+
+time.sleep()
+
+Profiling performance
+
+
+Why: Used constantly in automation or bots.
+
+
+---
+
+5. random
+
+For random numbers, choices, generators.
+
+Games
+
+Simulations
+
+Small tools
+
+
+Why: You’ll use it more than you expect.
+
+
+---
+
+6. typing
+
+For writing clean code at scale.
+
+Type hints
+
+Optional
+
+Dict[str, int]
+
+
+Why: Helps you write professional code.
